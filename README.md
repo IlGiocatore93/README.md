@@ -1,4 +1,5 @@
 👋 Ciao! Sono Giovanni!
+
 Sono uno studente del corso Cloud DevOps, molto affascinato per la tecnologia e l’informatica in tutte le sue forme.
 
 💻 Attualmente sto approfondendo concetti legati al mondo del cloud computing, DevOps e sviluppo software, con l’obiettivo di crescere come sviluppatore e professionista DevOps.

@@ -1,4 +1,4 @@
-👋Ciao!Sono Giovanni!
+👋Ciao! Sono Giovanni!
 
 💻Studente Cloud-DevOps, affascinato dall'Informatica e dal tech in ogni forma!
 

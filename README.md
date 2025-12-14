@@ -17,8 +17,8 @@
 
  **APPLICATIVI RI RIFERIMENTO:**
  
- <!-- Immagini affiancate in linea (usando HTML per il controllo della larghezza) -->
 <img src="immaginigithub/foto1.png" width="48%" alt="Foto 1">
+
 
 
 

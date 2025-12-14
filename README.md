@@ -17,7 +17,8 @@
 
  **APPLICATIVI RI RIFERIMENTO:**
  
-<img src="immaginigithub/foto1.png" width="48%" alt="Foto 1">
+<img src="immaginigithub2/foto1.png" width="48%" alt="Foto 1">
+
 
 
 

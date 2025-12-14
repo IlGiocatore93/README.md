@@ -6,7 +6,7 @@
 *👋Ciao! Sono Giovanni!*
 
 
-**---------------------------------------------------------------------------------------------------------------------------------------------**
+**----------------------------------------------------------------------------------------------------------------------------------------**
 
 
 💻Studente Cloud-DevOps, affascinato dall'Informatica e dal tech in ogni forma!
@@ -19,6 +19,7 @@
  
  <!-- Immagini affiancate in linea (usando HTML per il controllo della larghezza) -->
 <img src="immaginigithub/foto1.png" width="48%" alt="Foto 1">
+
 
 
 

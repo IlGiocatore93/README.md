@@ -6,7 +6,7 @@
 *👋Ciao! Sono Giovanni!*
 
 
-**-----------------------------------------------------------------------------------------------------------------------------------**
+**----------------------------------------------------------------------------------------------------------------------------**
 
 
 💻Studente Cloud-DevOps, affascinato dall'Informatica e dal tech in ogni forma!
@@ -15,9 +15,10 @@
 
 
 
- **APPLICATIVI RI RIFERIMENTO:**
+ **APPLICATIVI DI RIFERIMENTO:**
  
 <img src="immaginigithub2/foto1.png" width="48%" alt="Foto 1">
+
 
 
 

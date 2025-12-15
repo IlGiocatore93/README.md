@@ -1,9 +1,11 @@
 <img width="900" height="300" alt="ChatGPT Image 14 dic 2025, 05_07_24" src="https://github.com/user-attachments/assets/1488331d-ea0b-45c8-8a42-106b1bb6e8a8" />
 
 
-
+###
 
 *👋Ciao! Sono Giovanni!*
+
+###
 
 
 **----------------------------------------------------------------------------------------------------------------------------**
@@ -42,6 +44,7 @@
 <a href="https://docs.microsoft.com/en-us/dotnet/desktop/wpf/xaml/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xaml.png" alt="XAML" height="25" /></a>  
 <a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="25" /></a>  
  </p>
+
 
 
 

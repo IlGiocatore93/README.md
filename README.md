@@ -43,9 +43,10 @@
  <a href="https://git.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="35" /></a>
  <a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="35" />
  <a href="https://www.github.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/c/c2/GitHub_Invertocat_Logo.svg" height="35" />
- <a href="https://neo4j.com/" target="_blank"><img style="margin: 10px" src="" height="40" />
+ <a href="https://neo4j.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Neo4j-logo2024color.png" height="40" />
  
  </p>
+
 
 
 

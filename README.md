@@ -44,8 +44,9 @@
  <a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="35" />
  
  <a href="https://neo4j.com/" target="_blank"><img style="margin: 10px" src="" height="40" />
- <a href="https://www.github.com/" target="_blank"><img style="margin: 10px" src="" height="40" />
+ <a href="https://www.github.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/2/29/GitHub_logo_2013.svg" height="40" />
  </p>
+
 
 
 

@@ -42,10 +42,11 @@
  <a href="https://woocommerce.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/woocommerce.png" alt="WooCommerce" height="35" /></a>  
  <a href="https://git.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="35" /></a>
  <a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="35" />
- <a href="https://www.github.com/" target="_blank"><img style="margin: 10px" src="https://it.wikipedia.org/wiki/GitHub#/media/File:GitHub_Invertocat_Logo.svg" height="35" />
+ <a href="https://www.github.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/c/c2/GitHub_Invertocat_Logo.svg" height="35" />
  <a href="https://neo4j.com/" target="_blank"><img style="margin: 10px" src="" height="40" />
  
  </p>
+
 
 
 

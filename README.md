@@ -42,8 +42,9 @@
  <a href="https://woocommerce.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/woocommerce.png" alt="WooCommerce" height="40" /></a>  
  <a href="https://git.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="40" /></a>
  <a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="40" />
- 
+ <a href="https://www.github.com/" target="_blank"><img style="margin: 10px" src="<svg xmlns="http://www.w3.org/2000/svg" alt="Github" height="40" />
  </p>
+
 
 
 

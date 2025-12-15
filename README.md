@@ -14,7 +14,7 @@
 💻Studente Cloud-DevOps, affascinato dall'Informatica e dal tech in ogni forma!
 
 📌Sempre pronto a imparare qualcosa di nuovo e a migliorare
-
+###
 
 
  **APPLICATIVI DI RIFERIMENTO:**
@@ -44,6 +44,7 @@
  <a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="40" />
  
  </p>
+
 
 
 

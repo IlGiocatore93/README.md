@@ -7,7 +7,7 @@
 
 ###
 
-<h2>________________________________________________________________________________________________________________________________________</h2>
+<h2>______________________________________________________________________________________________________________________________</h2>
 
 ###
 
@@ -44,6 +44,7 @@
 <a href="https://docs.microsoft.com/en-us/dotnet/desktop/wpf/xaml/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xaml.png" alt="XAML" height="25" /></a>  
 <a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="25" /></a>  
  </p>
+
 
 
 

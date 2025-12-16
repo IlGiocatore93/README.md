@@ -16,8 +16,8 @@
 📌Sempre pronto a imparare qualcosa di nuovo e a migliorare
 ###
 
-
-<h1 style="color: red;" **APPLICATIVI DI RIFERIMENTO:** </h1>
+**APPLICATIVI DI RIFERIMENTO:** 
+<h1 style="color: red;">APPLICATIVI DI RIFERIMENTO</h1>
 
  
 <p align="left">

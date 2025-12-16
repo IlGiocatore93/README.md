@@ -60,7 +60,7 @@
 
  <em>Container e Virtualizzazioni : </em>
  <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="35" /></a>
- <a href="https://www.virtualbox.org/" target="_blank"><img style="margin: 10px" src="https://it.wikipedia.org/wiki/VirtualBox#/media/File:VirtualBox_2024_Logo.svg" alt="Virtualbox" height="35" /></a>
+ <a href="https://www.virtualbox.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" alt="Virtualbox" height="35" /></a>
  
  ###
 
@@ -90,6 +90,7 @@
  <a href="https://www.github.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/c/c2/GitHub_Invertocat_Logo.svg" height="35" /></a>
  
  </p>
+
 
 
 

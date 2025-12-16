@@ -17,7 +17,7 @@
 ###
 
 
-<p style= "color: red" **APPLICATIVI DI RIFERIMENTO:**</p>
+<p style="color:#FF0004"> **APPLICATIVI DI RIFERIMENTO:**</p>
 
 <p align="left">
  <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="30" /></a> 
@@ -46,6 +46,7 @@
  <a href="https://neo4j.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Neo4j-logo2024color.png" height="30" /></a>
  
  </p>
+
 
 
 

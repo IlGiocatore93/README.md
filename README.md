@@ -68,11 +68,17 @@
 
  ###
 
+ <em>Grafica e Design : </em>
+ <a href="https://miro.com/it/" target="_blank"><img style="margin: 10px" src="https://images.ctfassets.net/udc161ufuk3a/3OpfaicvbVFEOrTyKbnsm1/ef0e67662cdcbacccea58dbfcbf7c10b/Miro_logo_news.png?fm=webp&q=65" alt="Miro" height="35" /></a>
+
+ ###
+ 
  <em>Repository : </em>
  <a href="https://git.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="35" /></a>
  <a href="https://www.github.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/c/c2/GitHub_Invertocat_Logo.svg" height="35" /></a>
  
  </p>
+
 
 
 

@@ -38,7 +38,7 @@
 
  <em>IDE : </em>
  <a href="https://visualstudio.microsoft.com/it/" target="_blank"><img style="margin: 10px" src="https://it.wikipedia.org/wiki/Microsoft_Visual_Studio#/media/File:Visual_Studio_Icon_2026.svg" alt="Visual Studio" height="35" /></a>
- <a href="https://code.visualstudio.com/" target="_blank"><img style="margin: 10px" src="C:\Users\Jhon Whitely\Downloads\visual-studio-code-svgrepo-com.png" alt="Visual Studio Code" height="35" /></a>
+ <a href="https://code.visualstudio.com/" target="_blank"><img style="margin: 10px" src="https://www.clipartmax.com/middle/m2i8Z5b1i8Z5i8H7_visual-studio-code-logo/" alt="Visual Studio Code" height="35" /></a>
 
 ###
 
@@ -84,6 +84,7 @@
  <a href="https://www.github.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/c/c2/GitHub_Invertocat_Logo.svg" height="35" /></a>
  
  </p>
+
 
 
 

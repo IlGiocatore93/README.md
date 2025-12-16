@@ -1,7 +1,5 @@
-<img width="900" height="300" alt="ChatGPT Image 14 dic 2025, 05_07_24" src="https://github.com/user-attachments/assets/1488331d-ea0b-45c8-8a42-106b1bb6e8a8" />
+###<img width="900" height="300" alt="immagineprofilogithub" src="https://github.com/user-attachments/assets/90d3308e-4331-4d78-b589-9dfad52e68bf" />
 
-
-###
 
 <h3><em>👋Ciao! Sono Giovanni!</em></h3>
 
@@ -74,6 +72,7 @@
  <a href="https://www.github.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/c/c2/GitHub_Invertocat_Logo.svg" height="30" /></a>
  
  </p>
+
 
 
 

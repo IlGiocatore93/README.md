@@ -13,9 +13,8 @@
 💻Studente Cloud-DevOps, affascinato dall'Informatica e dal tech in ogni forma!
 
 📌Sempre pronto a imparare qualcosa di nuovo e a migliorare
+
 ###
-
-
 
 
 **APPLICATIVI DI RIFERIMENTO :**
@@ -37,7 +36,7 @@
  ###
 
  <em>IDE : </em>
- <a href="https://visualstudio.microsoft.com/it/" target="_blank"><img style="margin: 10px" src="https://it.wikipedia.org/wiki/Microsoft_Visual_Studio#/media/File:Visual_Studio_Icon_2026.svg" alt="Visual Studio" height="35" /></a>
+ <a href="https://visualstudio.microsoft.com/it/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg" alt="Visual Studio" height="35" /></a>
  <a href="https://code.visualstudio.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="Visual Studio Code" height="35" /></a>
 
 ###
@@ -84,6 +83,7 @@
  <a href="https://www.github.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/c/c2/GitHub_Invertocat_Logo.svg" height="35" /></a>
  
  </p>
+
 
 
 

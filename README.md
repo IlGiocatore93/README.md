@@ -18,11 +18,12 @@
 
 <head>
 <style>
-  .applicativi di riferimento{
+  .titolo-rosso-css {
     color: red;
   }
 </style>
-<h1 class="titolo-rosso-css"></h1>
+<h1 class="titolo-rosso-css">applicativi</h1>
+
 </head>
 
 
@@ -57,6 +58,7 @@
  <a href="https://neo4j.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Neo4j-logo2024color.png" height="30" /></a>
  
  </p>
+
 
 
 

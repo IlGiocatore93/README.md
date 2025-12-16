@@ -80,7 +80,7 @@
  ###
 
  <em>Editor di Testo : </em>
- <a href="https://notepad-plus-plus.org/" target="_blank"><img style="margin: 10px" src=https://it.wikipedia.org/wiki/Notepad%2B%2B#/media/File:Notepad++_Logo.svg alt="Notepad ++" height="35" /></a>
+ <a href="https://notepad-plus-plus.org/" target="_blank"><img style="margin: 10px" src="https://it.wikipedia.org/wiki/Notepad%2B%2B#/media/File:Notepad++_Logo.svg" alt="Notepad ++" height="35" /></a>
 
  ###
  
@@ -89,6 +89,7 @@
  <a href="https://www.github.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/c/c2/GitHub_Invertocat_Logo.svg" height="35" /></a>
  
  </p>
+
 
 
 

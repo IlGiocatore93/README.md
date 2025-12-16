@@ -16,6 +16,17 @@
 📌Sempre pronto a imparare qualcosa di nuovo e a migliorare
 ###
 
+<head>
+<style>
+  .titolo-rosso-css {
+    color: red; /* oppure #FF0000 */
+  }
+</style>
+<h1 class="titolo-rosso-css">Questo titolo è rosso (CSS interno)</h1>
+</head>
+
+
+
 
 **APPLICATIVI DI RIFERIMENTO:** 
 
@@ -46,6 +57,7 @@
  <a href="https://neo4j.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Neo4j-logo2024color.png" height="30" /></a>
  
  </p>
+
 
 
 

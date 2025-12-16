@@ -16,20 +16,8 @@
 📌Sempre pronto a imparare qualcosa di nuovo e a migliorare
 ###
 
-<head>
-<style>
-  .titolo-rosso-css {
-    color: red;
-  }
-</style>
-<h1 class="titolo-rosso-css">applicativi</h1>
 
-</head>
-
-
-
-
-**APPLICATIVI DI RIFERIMENTO:** 
+<p style= "color: red" **APPLICATIVI DI RIFERIMENTO:**</p>
 
 <p align="left">
  <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="30" /></a> 
@@ -58,6 +46,7 @@
  <a href="https://neo4j.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Neo4j-logo2024color.png" height="30" /></a>
  
  </p>
+
 
 
 

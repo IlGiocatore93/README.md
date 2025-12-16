@@ -3,7 +3,7 @@
 
 ###
 
-<strong><em>👋Ciao! Sono Giovanni!</em></strong>
+<b><em>👋Ciao! Sono Giovanni!</em></b>
 
 
 ###
@@ -79,6 +79,7 @@
  
  
  </p>
+
 
 
 

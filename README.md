@@ -16,7 +16,8 @@
 📌Sempre pronto a imparare qualcosa di nuovo e a migliorare
 ###
 
-<span style="color:red">Titolo Rosso</span>
+<h2 style="color:red">Titolo Rosso</h2>
+
 
 
 
@@ -50,6 +51,7 @@
  <a href="https://neo4j.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Neo4j-logo2024color.png" height="30" /></a>
  
  </p>
+
 
 
 

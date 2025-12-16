@@ -3,7 +3,7 @@
 
 ###
 
-<h3>👋Ciao! Sono Giovanni!</h3>
+<h3><em>👋Ciao! Sono Giovanni!</em></h3>
 
 
 ###
@@ -51,6 +51,7 @@
  <a href="https://neo4j.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Neo4j-logo2024color.png" height="30" /></a>
  
  </p>
+
 
 
 

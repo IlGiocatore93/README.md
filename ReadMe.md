@@ -1,7 +1,7 @@
 <img width="800" height="300" alt="immagineprofilogithub" src="https://github.com/user-attachments/assets/90d3308e-4331-4d78-b589-9dfad52e68bf" />
 
 
-<h3><em>👋Ciao! Sono Giovanni!</em></h3>
+### **_👋 Ciao, sono Giovanni!_**
 
 
 ###
@@ -94,6 +94,7 @@
  <a href="https://www.github.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/c/c2/GitHub_Invertocat_Logo.svg" height="35" /></a>
  
  </p>
+
 
 
 

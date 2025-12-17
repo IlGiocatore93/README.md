@@ -46,7 +46,7 @@
  <a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="35" /></a>
  <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="35" /></a>
  <a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="35" /></a>
- <a href="https://docs.python.org/3/library/tkinter.html" target="_blank"><img style="margin: 10px" src="<svg viewBox="0 0 48 48" id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" fill="#000000"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"><defs><style>.cls-1{fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;}</style></defs><path class="cls-1" d="M4.5,8.75H28.22v7.78H20.9V27.87H11.82V16.53H4.5ZM32.28,16.5H43.5L32.12,27.87,43.5,39.25H32.28L20.9,27.87Zm0,0"></path></g></svg>" alt="Tkinter" height="35" /></a>
+ <a href="https://docs.python.org/3/library/tkinter.html" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/1/15/Python_Tkinter_example.png" alt="Tkinter" height="35" /></a>
  
  ###
 
@@ -92,6 +92,7 @@
  <a href="https://www.github.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/c/c2/GitHub_Invertocat_Logo.svg" height="35" /></a>
  
  </p>
+
 
 
 

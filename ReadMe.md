@@ -10,7 +10,7 @@
 
 ###
 
-💻Studente Cloud-DevOps, affascinato dall'Informatica e dal tech in ogni forma!
+💻Studente Cloud-DevOps, affascinato dall'Informatica e dal tech in ogni sua forma!
 
 📌Sempre pronto a imparare qualcosa di nuovo e a migliorare
 
@@ -94,6 +94,7 @@
  <a href="https://www.github.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/c/c2/GitHub_Invertocat_Logo.svg" height="35" /></a>
  
  </p>
+
 
 
 
